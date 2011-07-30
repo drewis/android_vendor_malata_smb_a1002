@@ -1,0 +1,99 @@
+#key SCANCODE KEYCODE [FLAGS...]
+key 399   GRAVE
+key 1     BACK              WAKE_DROPPED
+key 2     1
+key 3     2
+key 4     3
+key 5     4
+key 6     5
+key 7     6
+key 8     7
+key 9     8
+key 10    9
+key 11    0
+key 158   BACK              WAKE_DROPPED
+key 230   SOFT_RIGHT        WAKE
+key 60    SOFT_RIGHT        WAKE
+key 107   ENDCALL           WAKE_DROPPED
+key 62    ENDCALL           WAKE_DROPPED
+key 229   MENU              WAKE_DROPPED
+key 125   MENU              WAKE_DROPPED
+key 139   MENU              WAKE_DROPPED
+key 59    MENU              WAKE_DROPPED
+key 127   SEARCH            WAKE_DROPPED
+key 217   SEARCH            WAKE_DROPPED
+key 228   POUND
+key 227   STAR
+key 231   CALL              WAKE_DROPPED
+key 61    CALL              WAKE_DROPPED
+key 232   DPAD_CENTER       WAKE_DROPPED
+key 108   DPAD_DOWN         WAKE_DROPPED
+key 103   DPAD_UP           WAKE_DROPPED
+key 102   HOME              WAKE
+key 105   DPAD_LEFT         WAKE_DROPPED
+key 106   DPAD_RIGHT        WAKE_DROPPED
+key 115   VOLUME_UP
+key 114   VOLUME_DOWN
+key 116   POWER             WAKE
+key 212   CAMERA
+
+key 16    APOSTROPHE
+key 17    COMMA
+key 18    PERIOD
+key 19    P
+key 20    Y
+key 21    F
+key 22    G
+key 23    C
+key 24    R
+key 25    L
+key 26    SLASH
+key 27    EQUALS
+key 43    BACKSLASH
+
+key 30    A
+key 31    O
+key 32    E
+key 33    U
+key 34    I
+key 35    D
+key 36    H
+key 37    T
+key 38    N
+key 39    S
+key 40    MINUS
+key 14    DEL
+        
+key 44    SEMICOLON
+key 45    Q
+key 46    J
+key 47    K
+key 48    X
+key 49    B
+key 50    M
+key 51    W
+key 52    V
+key 53    Z
+key 28    ENTER
+        
+key 56    ALT_LEFT
+key 100   ALT_RIGHT
+key 42    SHIFT_LEFT
+key 54    SHIFT_RIGHT
+key 15    TAB
+key 57    SPACE
+key 150   EXPLORER
+key 155   ENVELOPE        
+
+key 12    LEFT_BRACKET
+key 13    RIGHT_BRACKET
+key 215   AT
+
+key 114   VOLUME_DOWN
+key 115   VOLUME_UP
+key 116   POWER
+key 158   BACK
+
+key 125   HOME
+key 126   SEARCH
+key 127   MENU
